@@ -1,0 +1,17 @@
+commit 5cb557c89a98cb885b8a149da7aab1f57468e9ad
+Author: KseniaFinskaya <ksenia.finskaya@gmail.com>
+Date:   Mon Jun 22 11:36:33 2020 -0400
+
+    added gitignore
+
+commit 76192cd8e9edf1fe6b133fc56c1815f74c48eb5a
+Author: KseniaFinskaya <ksenia.finskaya@gmail.com>
+Date:   Mon Jun 22 11:10:53 2020 -0400
+
+    added two files
+
+commit 9b672e6bac7dc0d54e3fc56bcb7afb8d9f7bdf87
+Author: KseniaFinskaya <ksenia.finskaya@gmail.com>
+Date:   Mon Jun 22 11:04:55 2020 -0400
+
+    added readme.txt
